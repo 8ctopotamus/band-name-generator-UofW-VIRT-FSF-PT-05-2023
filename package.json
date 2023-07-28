@@ -20,6 +20,7 @@
   "homepage": "https://github.com/8ctopotamus/band-name-generator-UofW-VIRT-FSF-PT-05-2023#readme",
   "dependencies": {
     "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.8",
     "random-word-slugs": "^0.1.7"
   }
 }
